@@ -1,1 +1,1 @@
-# synctest
+# GitHub SyncTest

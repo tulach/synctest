@@ -2,4 +2,4 @@
 
 This is testing repository for SVN-GIT synchronization.
 
-Version 4
+Version 5
